@@ -110,17 +110,21 @@ A digital application project focused on building practical solutions through so
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=danieledjang1-jpg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=danieledjang1-jpg&show_icons=true&theme=tokyonight&hide_border=true"
+alt="Daniel's GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieledjang1-jpg&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=danieledjang1-jpg&layout=compact&theme=tokyonight&hide_border=true"
+alt="Daniel's Most Used Languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=danieledjang1-jpg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="80%"
+src="https://streak-stats.demolab.com?user=danieledjang1-jpg&theme=tokyonight&hide_border=true"
+alt="Daniel's GitHub Contribution Streak"/>
 
 </div>
-
----
 
 ## 🎯 MY DEVELOPMENT PHILOSOPHY
 
